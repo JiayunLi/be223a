@@ -1,0 +1,52 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+    background-color: #eee;
+}
+
+.form-activate {
+    max-width: 340px;
+    padding: 15px;
+    margin: 0 auto;
+}
+.form-activate .form-activate-heading,{
+    margin-bottom: 10px;
+    font-weight: normal;
+
+}
+
+.form-activate .form-control {
+    position: relative;
+    height: auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px;
+    font-size: 16px;
+}
+.form-activate .form-control:focus {
+    z-index: 3;
+}
+.form-activate input[type="email"] {
+    margin-bottom: 10px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+}
+.message{
+    margin-top:50px;
+    position: relative;
+    text-align: left;
+    margin-left:40px;
+    color: #222222;
+    font-size: 15px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.message a {
+    text-decoration:none;
+    front-size: 18px;
+    color: #337ab7;
+}
+.message a:hover{
+    text-decoration: none;
+    color:#286090;
+}

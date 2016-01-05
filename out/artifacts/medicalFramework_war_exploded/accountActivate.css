@@ -1,0 +1,23 @@
+body {
+    padding-top: 60px;
+    padding-bottom: 40px;
+    background-color: #eee;
+}
+.message{
+    margin-top:50px;
+    position: relative;
+    text-align: left;
+    margin-left: 100px;
+    color: #222222;
+    font-size: 20px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.message a {
+    text-decoration:none;
+    front-size: 20px;
+    color: #337ab7;
+}
+.message a:hover{
+    text-decoration: none;
+    color:#286090;
+}
